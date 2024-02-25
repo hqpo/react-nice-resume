@@ -41,8 +41,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+    "repository": {
+  "type": "git",
+    "url": "git+https://github.com/hqpo/react-nice-resume"
   },
   "devDependencies": {
     "chokidar": "^3.5.1"
   }
+  
 }
